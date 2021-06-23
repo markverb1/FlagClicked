@@ -1,2 +1,2 @@
 language = "bash"
-run = "cd flagclicked HOST=0.0.0.0 yarn dev"
+run = "bash main.sh"
